@@ -10,7 +10,7 @@ git clone "https://github.com/sudarsankumar/portfolio-challenge-devchallenges"
 ```
 
 ## Demo link
-[My 404 Page demo link](https://sudarsankumar.github.io/portfolio-challenge-devchallenges/)
+[Portfolio Challenge](https://sudarsankumar.github.io/portfolio-challenge-devchallenges/)
 
 ## Credits
 Resource from [DevChallenges](https://devchallenges.io/)
